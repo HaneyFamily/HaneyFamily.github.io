@@ -1,0 +1,49 @@
+body {
+background: #f00;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 600px;
+background: #ffab19;
+margin: 25px auto;
+border: solid 4px #ffea19;
+padding: 10px;
+}
+asd {
+text-align: center;
+font-family: "Comic Sans MS";
+font: 24pt;
+color: #afff00;
+}
+asda {
+text-align: center;
+font-family: "Times New Roman";
+font: 24pt;
+color: #faf222;
+}
+asdas {
+text-align: center;
+font-family: "Times New Roman";
+font: 24pt;
+color: #faf451;
+}
+asdasd {
+text-align: center;
+font-family: "Times New Roman";
+font: 24pt;
+color: #fa1098;
+}
+h2 {
+text-align: center;
+font-family: "Times New Roman";
+font: 10pt;
+color: #000000;
+}
+p {
+font-family: "Calibri";
+font-size: 12pt;
+text-align: left;
+text-indent: 48px;
+color: #2f2d2d;
+}
